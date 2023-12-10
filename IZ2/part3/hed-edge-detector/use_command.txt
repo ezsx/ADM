@@ -1,0 +1,5 @@
+
+
+
+
+python edge_detector.py --input D:\ADM\IZ2\images\img3.png --prototxt deploy.prototxt --caffemodel hed_pretrained_bsds.caffemodel --width 1024 --height 1024
